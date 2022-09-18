@@ -27,7 +27,7 @@ Pandas library was used to read the data in the CSV file into a DataFrame. Panda
 - The average reading score for all students in grades 11 and 12 combined is 74.9
 - For Math and reading, Chatter school average scores are higher than Public school average scores   
 - Montgomery High School has highest number of students at 2,038 and Chang High School has lowest number of students at 171.
-- Based on the scores, Charter schools are performing slightly better than the Public schools 
+- Based on the scores, Charter schools performed higher than the Public schools 
 
 ### Future Analysis Scope
 - Total budget was 13,255,098,712 dollars of which 7,398,9907,33 (56%) was allocated to public schools and 5,586,190,799 (44%) was allocated to charter schools.
