@@ -22,9 +22,9 @@ Pandas library was used to read the data in the CSV file into a DataFrame. Panda
 - Non-numeric data was removed from the "grade" column and the column type was changed from 'String’ to 'Integer'.
 
 ### Current Analysis
-- The average math score is 64.676 which is higher than national average 47.8
+- The average math score is 64.676 which is higher than national average 47.8 (https://www.nationsreportcard.gov)
 - The overall minimum reading score is 10.5, scored by a Dixon High School 10th grade student
-- The average reading score for all students in grades 11 and 12 combined is 74.9 which is higher than the national average of 50.5
+- The average reading score for all students in grades 11 and 12 combined is 74.9 which is higher than the national average of 50.5 (https://www.nationsreportcard.gov)
 - For Math and reading, Chatter school average scores are higher than Public school average scores   
 - Montgomery High School has highest number of students at 2,038 and Chang High School has lowest number of students at 171.
 - Based on the scores, Charter schools performed higher than the Public schools 
